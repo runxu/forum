@@ -17,6 +17,9 @@
 * Mysql
 * Redis
 ---
+###演示地址
+http://101.33.231.76:8080
+---
 ### 预览
 ![](https://github.com/runxu/forum/blob/main/images/1.png)
 ![](https://github.com/runxu/forum/blob/main/images/2.png)
