@@ -1,1 +1,24 @@
-# forum
+一个基于Vue+SpringBoot开发的前后端分离论坛
+===
+### 技术栈
+***
+`JavaEE` `MyBatisPlus` `Maven` `Shiro` `SpringBoot` `Vue` `element-ui` `buefy` `axios` `markdown-it`
+---
+### 如何部署
+    前端Vueblog-vue包
+    npm - install
+    npm run serve
+    后端Vueblog包
+    修改数据库连接URL和账号密码即可
+---
+### 运行环境
+* JDK8
+* Maven
+* Mysql
+* Redis
+---
+### 预览
+
+    
+
+
