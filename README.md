@@ -7,7 +7,7 @@
 ### 如何部署
     前端Vueblog-vue包
     npm - install
-    npm run serve
+    npm run server
     后端Vueblog包
     修改数据库连接URL和账号密码即可
 ---
