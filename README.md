@@ -30,7 +30,7 @@
     修改数据库连接URL和账号密码即可
     
 ## 演示地址
-[http://101.33.231.76:8080](http://175.178.35.222:8080/)
+[http://175.178.35.222:8080](http://175.178.35.222:8080/)
 ## 预览
 ![](https://github.com/runxu/forum/blob/master/images/1.png)
 ![](https://github.com/runxu/forum/blob/master/images/2.png)
