@@ -32,13 +32,13 @@
 ## 演示地址
 [http://101.33.231.76:8080](http://175.178.35.222:8080/)
 ## 预览
-![](https://github.com/runxu/forum/blob/main/images/1.png)
-![](https://github.com/runxu/forum/blob/main/images/2.png)
-![](https://github.com/runxu/forum/blob/main/images/3.png)
-![](https://github.com/runxu/forum/blob/main/images/4.png)
-![](https://github.com/runxu/forum/blob/main/images/5.png)
-![](https://github.com/runxu/forum/blob/main/images/6.png)
-![](https://github.com/runxu/forum/blob/main/images/7.png)
+![](https://github.com/runxu/forum/blob/master/images/1.png)
+![](https://github.com/runxu/forum/blob/master/images/2.png)
+![](https://github.com/runxu/forum/blob/master/images/3.png)
+![](https://github.com/runxu/forum/blob/master/images/4.png)
+![](https://github.com/runxu/forum/blob/master/images/5.png)
+![](https://github.com/runxu/forum/blob/master/images/6.png)
+![](https://github.com/runxu/forum/blob/master/images/7.png)
 
     
 
